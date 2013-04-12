@@ -1,0 +1,5 @@
+[
+	{ "keys":["ctrl+shift+f"], "command": "bookmark_containing" },
+	{ "keys":["ctrl+shift+b"], "command":"browse_auto_bookmarks" },
+	{ "keys":["ctrl+shift+a"], "command":"auto_bookmark" }
+]
